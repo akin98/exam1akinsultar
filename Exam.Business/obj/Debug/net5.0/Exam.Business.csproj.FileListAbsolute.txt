@@ -1,0 +1,17 @@
+C:\Users\90534\source\repos\ExamMVC\Exam.Business\bin\Debug\net5.0\Exam.Business.deps.json
+C:\Users\90534\source\repos\ExamMVC\Exam.Business\bin\Debug\net5.0\Exam.Business.dll
+C:\Users\90534\source\repos\ExamMVC\Exam.Business\bin\Debug\net5.0\Exam.Business.pdb
+C:\Users\90534\source\repos\ExamMVC\Exam.Business\bin\Debug\net5.0\Exam.DAL.dll
+C:\Users\90534\source\repos\ExamMVC\Exam.Business\bin\Debug\net5.0\Exam.Entities.dll
+C:\Users\90534\source\repos\ExamMVC\Exam.Business\bin\Debug\net5.0\Exam.DAL.pdb
+C:\Users\90534\source\repos\ExamMVC\Exam.Business\bin\Debug\net5.0\Exam.Entities.pdb
+C:\Users\90534\source\repos\ExamMVC\Exam.Business\obj\Debug\net5.0\Exam.Business.csproj.AssemblyReference.cache
+C:\Users\90534\source\repos\ExamMVC\Exam.Business\obj\Debug\net5.0\Exam.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90534\source\repos\ExamMVC\Exam.Business\obj\Debug\net5.0\Exam.Business.AssemblyInfoInputs.cache
+C:\Users\90534\source\repos\ExamMVC\Exam.Business\obj\Debug\net5.0\Exam.Business.AssemblyInfo.cs
+C:\Users\90534\source\repos\ExamMVC\Exam.Business\obj\Debug\net5.0\Exam.Business.csproj.CoreCompileInputs.cache
+C:\Users\90534\source\repos\ExamMVC\Exam.Business\obj\Debug\net5.0\Exam.Business.csproj.CopyComplete
+C:\Users\90534\source\repos\ExamMVC\Exam.Business\obj\Debug\net5.0\Exam.Business.dll
+C:\Users\90534\source\repos\ExamMVC\Exam.Business\obj\Debug\net5.0\refint\Exam.Business.dll
+C:\Users\90534\source\repos\ExamMVC\Exam.Business\obj\Debug\net5.0\Exam.Business.pdb
+C:\Users\90534\source\repos\ExamMVC\Exam.Business\obj\Debug\net5.0\ref\Exam.Business.dll
